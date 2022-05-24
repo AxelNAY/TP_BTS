@@ -1,0 +1,25 @@
+
+	<center>
+		<table width="60%" border="6" bordercolor="#990000" cellpadding="0" cellpacing="0">
+			<tr>
+				<th width="100%" align="centre" bgcolor="#66CC99" colspan="0"> LES ZONES DU BATIMENT </th>
+			</tr>
+			<tr>
+				<th bgcolor="#66CC99"> NUMERO DE ZONE </th>
+				<th bgcolor="#66CC99"> TYPE DE LECTEUR </th>
+				<th bgcolor="#66CC99"> HEURE D'OUVERTURE </th>
+				<th bgcolor="#66CC99"> HEURE DE FERMETURE </th>
+			</tr>
+			<tr>
+				<th bgcolor="#66CC99"> $Num </th>
+				<th bgcolor="#66CC99"> $Type </th>
+				<th bgcolor="#66CC99"> $HeureOuvert </th>
+				<th bgcolor="#66CC99"> $HeureFerme </th>
+			</tr>
+			<tr>
+				
+			</tr>
+
+		</table>
+
+	</center>

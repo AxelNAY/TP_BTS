@@ -1,0 +1,11 @@
+﻿  TP CBdD.cpp
+c:\users\axel.nay\desktop\tp bdd c++\cbdd\cbdd.h(10): error C2504: 'Communication' : classe de base non définie
+c:\users\axel.nay\desktop\tp bdd c++\cbdd\tp cbdd.cpp(20): error C2039: 'connect' : n'est pas membre de 'CBdD'
+  c:\users\axel.nay\desktop\tp bdd c++\cbdd\cbdd.h(8): note: voir la déclaration de 'CBdD'
+c:\users\axel.nay\desktop\tp bdd c++\cbdd\tp cbdd.cpp(22): error C2039: 'connect' : n'est pas membre de 'CBdD'
+  c:\users\axel.nay\desktop\tp bdd c++\cbdd\cbdd.h(8): note: voir la déclaration de 'CBdD'
+c:\users\axel.nay\desktop\tp bdd c++\cbdd\tp cbdd.cpp(40): error C2039: 'deconnect' : n'est pas membre de 'CBdD'
+  c:\users\axel.nay\desktop\tp bdd c++\cbdd\cbdd.h(8): note: voir la déclaration de 'CBdD'
+  Communication.cpp
+c:\users\axel.nay\desktop\tp bdd c++\cbdd\cbdd.h(10): error C2504: 'Communication' : classe de base non définie
+  Génération de code en cours...

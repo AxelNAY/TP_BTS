@@ -1,0 +1,3 @@
+﻿  intervalle.cpp
+c:\users\axeln\source\repos\booléens et structures de choix\booléens et structures de choix\intervalle.cpp(24): warning C4804: '<' : utilisation risquée du type 'bool' dans l'opération
+  Booléens et structures de choix.vcxproj -> C:\Users\axeln\source\repos\Booléens et structures de choix\Debug\Booléens et structures de choix.exe

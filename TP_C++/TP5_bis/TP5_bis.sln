@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TP5_bis", "TP5_bis\TP5_bis.vcxproj", "{678400A2-6EAC-45AF-A042-947A64B5C528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678400A2-6EAC-45AF-A042-947A64B5C528}.Debug|x64.ActiveCfg = Debug|x64
+		{678400A2-6EAC-45AF-A042-947A64B5C528}.Debug|x64.Build.0 = Debug|x64
+		{678400A2-6EAC-45AF-A042-947A64B5C528}.Debug|x86.ActiveCfg = Debug|Win32
+		{678400A2-6EAC-45AF-A042-947A64B5C528}.Debug|x86.Build.0 = Debug|Win32
+		{678400A2-6EAC-45AF-A042-947A64B5C528}.Release|x64.ActiveCfg = Release|x64
+		{678400A2-6EAC-45AF-A042-947A64B5C528}.Release|x64.Build.0 = Release|x64
+		{678400A2-6EAC-45AF-A042-947A64B5C528}.Release|x86.ActiveCfg = Release|Win32
+		{678400A2-6EAC-45AF-A042-947A64B5C528}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E62D1C46-4BA2-47C1-9901-6B4EA3240A1A}
+	EndGlobalSection
+EndGlobal

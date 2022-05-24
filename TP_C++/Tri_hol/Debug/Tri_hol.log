@@ -1,0 +1,2 @@
+﻿Tri_hol_fct.obj : error LNK2019: symbole externe non résolu "int __cdecl tri_hol(char,int)" (?tri_hol@@YAHDH@Z) référencé dans la fonction _main
+C:\Users\axeln\Desktop\Axel NAY BTS - SN - IR\Informatique et Réseau\TP Jeudi BACQUA\Tri_hol\Debug\Tri_hol.exe : fatal error LNK1120: 1 externes non résolus
